@@ -1,5 +1,5 @@
 
-Hi there 👋, OpenCopilot helps you create an AI copilot/assistant for your product - allowing your users to chat with your product features.
+Hi there 👋,
 
 
 ### ❤️ Open source
